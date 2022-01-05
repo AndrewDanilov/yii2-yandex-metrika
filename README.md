@@ -10,16 +10,16 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require andrewdanilov/yii2-yandex-metrika "~1.0.0"
+composer require andrewdanilov/yii2-yandex-metrika "~1.1.0"
 ```
 
 or add
 
 ```
-"andrewdanilov/yii2-yandex-metrika": "~1.0.0"
+"andrewdanilov/yii2-yandex-metrika": "~1.1.0"
 ```
 
-to the require section of your `composer.json` file.
+to the `require` section of your `composer.json` file.
 
 
 Usage
