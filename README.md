@@ -35,4 +35,4 @@ Usage
 ]) ?>
 ```
 
-If _YII_ENV_ global constant is equal to _'dev'_, then counter will be disabled and counter code will not be displayed.
+If _YII_ENV_ global constant is equal to _'dev'_ or widget param `id` is not set, then counter will be disabled and counter code will not be displayed.
